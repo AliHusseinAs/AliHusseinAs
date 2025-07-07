@@ -1,16 +1,15 @@
-Hi there!  I'm Ali
+### 👋 Hi there, I'm Ali
 
-I'm an Applied Mathematics student with a passion for finance and software development. My journey blends the precision of numbers with the art of coding, and I’m constantly exploring how both fields intersect.
-Over the years, I've tackled projects ranging from mathematical modeling to building small systems, combining logic and creativity to find innovative solutions. My current focus? Developing a Credit Mortgage System using microservices architecture, where I'm diving deep into scalable solutions that power the future of fintech.
-A few highlights about me:
-� I thrive at the intersection of finance and technology, crafting models that solve real-world problems.
- I've worked on a range of projects, from medium-scale systems to mathematical simulations.
- Always learning: I’m currently expanding my expertise in microservices, Java Spring, and exploring machine learning to add value to my financial tech projects.
- My goal is to merge the power of applied mathematics and software engineering to create tools that shape the future of finance.
-Currently Learning:
-I'm diving into Go (Golang) and exploring its powerful concurrency model and simplicity to build efficient networking systems. It's an exciting journey that opens up possibilities for creating scalable, high-performance applications!
-When I’m not coding, I’m analyzing financial trends or exploring the latest advancements in software architecture.
-Feel free to explore my repositories and get in touch—I'm always open to collaboration, new ideas, and a good conversation about the future of tech and finance!
+I'm an Applied Mathematics student with a strong passion for **AWS, cloud security, and software engineering**. I love building tools that combine **coding, security frameworks, and cloud technologies** to solve real-world problems.
+
+**What I do:**
+- Develop cloud and cloud security and automation tools using **Go** and **Java**.
+- Explore and implement frameworks like **CIS Benchmarks** and **MITRE ATT&CK** to strengthen cloud security.
+- Build efficient backend systems in Go and Java.
+
+**What drives me:**
+I enjoy **creating, learning, and building tools from scratch**—turning theory into powerful software that enhances security, reliability, and performance.
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -20,4 +19,5 @@ Feel free to explore my repositories and get in touch—I'm always open to colla
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihusseintechandfinance/)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
