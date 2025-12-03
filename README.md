@@ -23,7 +23,7 @@ I specialize in building robust backend architectures and security automation to
 | **Backend Frameworks** | Spring Boot, FastAPI |
 | **Cloud & DevOps** | AWS (EC2, IAM, S3), Docker, Nginx, GitHub Actions (CI/CD) |
 | **Database & Messaging** | MySQL, SQLite, RabbitMQ, Redis |
-| **Security Tools** | Open Policy Agent (OPA), MITRE ATT&CK Mapping, CIS Benchmarks, FUFF, NMAP, OWASP TOP 10 |
+| **Security Tools** | MITRE ATT&CK Mapping, CIS Benchmarks, FUFF, NMAP, OWASP TOP 10 |
 
 ---
 
