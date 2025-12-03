@@ -1,4 +1,4 @@
-### Hi there, I'm Ali 👋
+### Hi there, I'm Ali
 
 I'm a **Backend Software Developer** and **Mathematical Engineering** student at **Yıldız Technical University**.
 
